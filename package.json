@@ -1,0 +1,8 @@
+{
+  "name": "chessBoardContest",
+  "version": "1.0.0",
+  "description": "Test &amp; compare chess board generators. (For teaching purposes)",
+  "main": "test.js",
+  "author": "JBaroG",
+  "license": "Apache 2.0"
+}
