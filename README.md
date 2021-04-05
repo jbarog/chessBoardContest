@@ -13,7 +13,7 @@ Files are processed in random order and test 0, 1, 2, 3,20 sizes. On check perfo
 
 Finally results are showed in a table.
 
-![Results table](https://raw.githubusercontent.com/jbarog/chessBoardContest/master/src/assets/results-table.png?raw=true)
+![Results table](https://raw.githubusercontent.com/jbarog/chessBoardContest/main/assets/results-table.png)
 
 ### Board generators
 This board generators should include a function named "chessBoard" that returns a n-sized chees board.
