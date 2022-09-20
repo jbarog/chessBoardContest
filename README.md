@@ -20,7 +20,8 @@ This board generators should include a function named "chessBoard" that returns 
 Example:
 `chessBoard(4)`
 Should return a string like:
-``` # #
+```
+ # #
 # #
  # #
 # #
