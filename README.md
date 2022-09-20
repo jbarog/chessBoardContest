@@ -16,7 +16,7 @@ Finally results are showed in a table.
 ![Results table](https://raw.githubusercontent.com/jbarog/chessBoardContest/main/assets/results-table.png)
 
 ### Board generators
-This board generators should include a function named "chessBoard" that returns a n-sized chees board.
+This board generators should include a function named "chessBoard" that returns a n-sized chess board.
 Example:
 `chessBoard(4)`
 Should return a string like:
